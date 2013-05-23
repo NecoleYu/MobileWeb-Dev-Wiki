@@ -5,6 +5,9 @@ A Wiki for Mobile Web Dev
 
 Problems List
 ====
+
+**贡献者：** [岑安](https://github.com/hongru)
+
 ***
 - **利用`overflow:auto`原生滚动引起的问题？**
 
